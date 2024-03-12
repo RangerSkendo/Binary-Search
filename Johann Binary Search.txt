@@ -1,0 +1,3 @@
+Johann Binary Search
+This pythons file is just a testing round where i rebuild the algorithm from the ground up using the other file as a starting point seeing is i can improve or streamline it,
+or add any more additional functionality to it, as making it easier to input data, or if i could also write an additional algorithm that would use an input to store the data but also sort it
